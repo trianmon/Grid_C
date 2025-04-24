@@ -17,7 +17,7 @@ This project provides a library for creating, manipulating, and managing 2D grid
 To compile the project, use the following command:
 
 ```bash
-gcc [main.c](http://_vscodecontentref_/4) [grid.c](http://_vscodecontentref_/5) -o grid_program
+gcc main.c grid.c -o grid_program
 ```
 
 ## Usage
